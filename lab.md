@@ -11,22 +11,23 @@ Keys pressed: `ssh nzajzon@ieng6.ucsd.edu<ENTER>`
 ![Image](clone.png)
 
 > I had previously cloned this
+
 Keys pressed: `git clone <Command-V><ENTER>`
-Assuming I did not copy paste url keys pressed: `git clone git@github.com:ucsd-cse15l-s23/lab7.git <ENTER>`
+<br> Assuming I did not copy paste url keys pressed: `git clone git@github.com:ucsd-cse15l-s23/lab7.git <ENTER>`
 
 ## Running the Tests (step 6)
 
 ![Image](testing.png)
 
 Keys pressed: `cd l<tab><ENTER>sh test.sh<ENTER>`
-Equal to: `cd lab7/<ENTER>sh test.sh<ENTER>`
+<br> Equal to: `cd lab7/<ENTER>sh test.sh<ENTER>`
 
 ## Editing the file (Step 7 Part 1)
 
 ![Image](vimFile.png)
 
 Keys pressed: `vim L<tab>.java<ENTER>`
-Keys pressed: `vim ListExample.java<ENTER>`
+<br> Keys pressed: `vim ListExample.java<ENTER>`
 
 ## Editing the file (Step 7 Part 2)
 
@@ -39,7 +40,7 @@ Keys pressed: `33j13lxi2:wq!<ENTER>`
 ![Image](passed.png)
 
 Keys pressed: `<UP><UP><ENTER>`
-Equal to: `sh test.sh<ENTER>`
+<br> Equal to: `sh test.sh<ENTER>`
 
 ## Committing Changes (Step 9)
 
@@ -48,4 +49,4 @@ Equal to: `sh test.sh<ENTER>`
 > Accidental changes in ListExamplesTests.java were committed but not needed
 
 Keys pressed (I copy pasted command for git commit): `git add ListExamples.java<ENTER><Command-V><ENTER>git push origin main<ENTER>`
-Keys pressed: `git add ListExamples.java <ENTER> git commit -m 'Some message about the change'<ENTER> git push origin main<ENTER>`
+<br> Keys pressed: `git add ListExamples.java <ENTER> git commit -m 'Some message about the change'<ENTER> git push origin main<ENTER>`

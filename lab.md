@@ -12,8 +12,8 @@ Keys pressed: `ssh nzajzon@ieng6.ucsd.edu<ENTER>`
 
 > I had previously cloned this
 
-Keys pressed: `git clone <Command-V><ENTER>`
-<br> Assuming I did not copy paste url keys pressed: `git clone git@github.com:ucsd-cse15l-s23/lab7.git <ENTER>`
+Keys pressed: `git clone<Command-V><ENTER>`
+<br> Assuming I did not copy paste url keys pressed: `git clone git@github.com:ucsd-cse15l-s23/lab7.git<ENTER>`
 
 ## Running the Tests (step 6)
 

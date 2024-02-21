@@ -43,9 +43,9 @@ Equal to: `sh test.sh<ENTER>`
 
 ## Committing Changes (Step 9)
 
-![Image](commit.png)
+![Image](commitPush.png)
 
 > Accidental changes in ListExamplesTests.java were committed but not needed
 
-Keys pressed (I copy pasted command for git commit): `git add ListExamples.java<ENTER><Command-V><ENTER>`
-Keys pressed: `git add ListExamples.java <ENTER> git commit -m 'Some message about the change' <ENTER>`
+Keys pressed (I copy pasted command for git commit): `git add ListExamples.java<ENTER><Command-V><ENTER>git push origin main<ENTER>`
+Keys pressed: `git add ListExamples.java <ENTER> git commit -m 'Some message about the change'<ENTER> git push origin main<ENTER>`

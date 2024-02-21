@@ -46,7 +46,7 @@ Keys pressed: `<UP><UP><ENTER>`
 
 ![Image](commitPush.png)
 
-> Accidental changes in ListExamplesTests.java were committed but not needed
+> Accidental changes in ListExamplesTests.java (2 deleted spaces) were committed but not needed
 
 Keys pressed (I copy pasted command for git commit): `git add ListExamples.java<ENTER><Command-V><ENTER>git push origin main<ENTER>`
 <br> Keys pressed: `git add ListExamples.java <ENTER> git commit -m 'Some message about the change'<ENTER> git push origin main<ENTER>`
